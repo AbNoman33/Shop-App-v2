@@ -1,0 +1,28 @@
+i {
+    pointer-events: none;
+}
+
+
+.shop data tr {
+    vertical-align: center;
+}
+
+.single-product {
+    text-align: center;
+}
+
+.single-product img {
+    width: 280px;
+    height: 220px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 5px solid bisque;
+}
+
+/* .edit_single_product img {
+    width: 250px;
+    height: 150px;
+    border-radius: 5px;
+    border: 3px solid rgb(102, 150, 102);
+    object-fit: cover;
+} */
